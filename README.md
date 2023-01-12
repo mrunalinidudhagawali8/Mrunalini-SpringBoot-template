@@ -1,2 +1,2 @@
-# Mrunalini-SpringBoot-template
-Contains a basic reference spring boot template
+# Mrunalini-SpringBoot-Maven-boilerplate
+Contains a basic reference Maven Springboot template
